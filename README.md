@@ -3,7 +3,7 @@
 <h3 align="center">District-Level Cricketer | Python Programmer | Web & Physics Enthusiast</h3>
 
 <p align="center">
-  <img src="blob:https://github.com/e8355013-9baa-4f32-9ec1-c22f9e341474" width="300" alt="Cricket GIF"/>
+  <img src="https://github.com/pandeydevangshu12/pandeydevangshu12/blob/main/dev.jpg?raw=true" width="300" alt="Cricket GIF"/>
 </p>
 
 ---
