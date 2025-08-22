@@ -1,10 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Devangshu Pandey</h1>
-<h3 align="center">District-Level Cricketer | Python Programmer | Web & Physics Enthusiast</h3>
-
-<p align="center">
-  <img src="https://github.com/pandeydevangshu12/pandeydevangshu12/blob/main/dev.jpg?raw=true" width="300" alt="Cricket GIF"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I'm+Devangshu;CSE+Core+Student+@+VIT+Chennai;Python+Programmer+%7C+Quantum+Computing+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
