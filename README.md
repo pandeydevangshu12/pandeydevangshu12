@@ -1,4 +1,8 @@
+# Hi there 👋
 
+I'm a passionate software developer and problem solver who loves coding and tackling challenging algorithmic problems.
+
+---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I'm+Devangshu+Pandey;CSE+Core+Student+@+VIT+Chennai;Python+Programmer+%7C+Web+Developer)](https://git.io/typing-svg)
 
 ---
@@ -33,6 +37,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pandeydevangshu12&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
+
+---
+
+### 📊 LeetCode Stats
+
+  [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LeetCode_logo_black.svg/32px-LeetCode_logo_black.svg.png)](https://leetcode.com/asRzHFxg7o/)  
+<img src="https://leetcard.jacoblin.cool/asRzHFxg7o?border=1&radius=5" alt="Leetcode Stats">
 
 ---
 
