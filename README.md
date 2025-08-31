@@ -40,12 +40,23 @@ I'm a passionate software developer and problem solver who loves coding and tack
 
 ---
 
-### 📊 LeetCode Stats
+## 📊 My LeetCode Stats
 
-  [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LeetCode_logo_black.svg/32px-LeetCode_logo_black.svg.png)](https://leetcode.com/u/Devangshu_Pandey/)  
-<img src="https://leetcard.jacoblin.cool/asRzHFxg7o?border=1&radius=5" alt="Leetcode Stats">
+[![](https://leetcard.jacoblin.cool/Devangshu_Pandey?border=1&radius=5)](https://leetcode.com/u/Devangshu_Pandey/)
 
 ---
+
+## 🚀 Goals
+
+- ✅ Consistent daily problem solving  
+- 🔍 Master all patterns of DSA  
+- 💡 Improve time/space optimization strategies  
+- 📚 Prepare for top-tier technical interviews  
+
+---
+
+> “The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie
+
 
 ### 📫 Connect with Me
 <p align="center">
