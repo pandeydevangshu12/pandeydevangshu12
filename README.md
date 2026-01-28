@@ -11,7 +11,7 @@ I'm a passionate software developer and problem solver who loves coding and tack
 - 🎯 *District-level Cricketer*, passionate about sports and teamwork  
 - 💻 *Python Programmer*  
 - 📚 *Physics & Math Enthusiast*  
-- 🌐 *Web Developer* – HTML & CSS  
+- 🌐 *Web Developer* – HTML & CSS, JavaScript, React.js, Socket.io
 
 ---
 
